@@ -1,0 +1,111 @@
+.container {
+    display: flex-box;
+    height: fit-content;
+    width: fit-content;
+
+}
+.logo {
+    border: 2px solid black;
+    width: fit-content;
+    padding: 5px;
+}
+
+.signIn {
+    border: 2px solid black;
+    width: fit-content;
+    padding: 5px;
+    position: relative;
+    left: 600px;
+}
+
+.heading {
+    display: inline-block;
+}
+#ul {
+    list-style-type: none;
+    border: 2px solid black;
+    width: fit-content;
+}
+
+#ul2 {
+
+}
+
+.facebook {
+    border: 2px solid black;
+    width: 10px;
+}
+
+.share {
+    border: 2px solid black;
+    width: 40px;
+}
+
+#li {
+    display: inline;
+    padding: 69px;
+
+}
+#li2 {
+    display: inline;
+    padding: 15px;
+
+}
+
+.firstP {
+    display: table;
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid black;
+    font-size: 25px;
+}
+
+.p {
+   display: inline-block;
+   position: relative;
+   left: 205px;
+   ;
+}
+
+.authorSocials {
+    display: inline-block;
+    background-color: blueviolet;
+
+}
+
+#image {
+    width: 400px;
+    padding: 0px;
+    display: table;
+    margin: 0 auto;
+}
+
+#paragraph1 {
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+.ulgroup {
+    display: inline-block;
+}
+
+.container2 {
+    border: 2px solid black;
+    padding: 5px;
+
+    display: table;
+    margin: 0 auto;
+ }
+
+ #footerimage {
+     height: 50px;
+     width: auto;
+     border: 2px solid black;
+     margin-top: 15px;
+ }
+
+.containerFooter {
+    display: inline-block;
+    
+}
